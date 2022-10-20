@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Algorithms_Playground",
+			"path": "."
+		}
+	],
+	"settings": {
+		"notebook.output.textLineLimit": 100
+	}
+}
