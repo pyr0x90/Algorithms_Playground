@@ -1,7 +1,12 @@
 # Algorithms_Playground
-Notebooks for Algorithms coursework and further exploration
+Notebooks for Algorithms coursework, theoretical understanding, and further exploration.
 
-**Current Classes - University of Colorado, Boulder:**
+## Reference Material
+
+- **Introduction to Algorithms 4th Edition** - Cormen, Leiserson, Rivest, Stein  
+
+
+## Current Classes - University of Colorado, Boulder:
 - DTSA 5501 Algorithms for Searching, Sorting, and Indexing
     
     - Insert Sort
